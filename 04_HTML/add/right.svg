@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg548" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 78 68"
+	 style="enable-background:new 0 0 78 68;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.25;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#0000FF;stroke:#000000;stroke-width:10;stroke-linejoin:round;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:url(#path838_00000170274664030862976950000005629997126328198826_);}
+</style>
+<sodipodi:namedview  id="base" inkscape:cx="200.00000" inkscape:cy="201.15563" inkscape:window-height="500" inkscape:window-width="640" inkscape:window-x="387" inkscape:window-y="61" inkscape:zoom="0.90750000" showgrid="true">
+	</sodipodi:namedview>
+<g id="g836">
+	<path id="path833" sodipodi:nodetypes="ccccccccccc" class="st0" d="M47,14.8c-0.1,0-0.2,0-0.2,0c-2.1,0.9,0.6,11.7,0.6,11.7
+		s-32.7-2.1-34.2-1.4c-1.5,0.7-2.3,19.4-0.9,20.3c1.4,0.9,34.2,1.7,34.2,1.7s-3.7,10.5-1.7,11.6c2,1,18-10.6,18.7-20.8l0,0
+		c0-0.2,0-0.4,0-0.7C63.8,27.3,49.8,14.8,47,14.8z"/>
+	<path id="path831" sodipodi:nodetypes="ccccccccccc" class="st1" d="M48.8,16.1c-0.1,0-0.2,0-0.2,0c-2.1,0.9,0.6,11.7,0.6,11.7
+		c0,0-32.7-2.1-34.2-1.4s-2.3,19.4-0.9,20.3c1.4,0.9,34.2,1.7,34.2,1.7s-3.7,10.5-1.7,11.6c2,1,18-10.6,18.7-20.8l0,0
+		c0-0.2,0-0.4,0-0.7C65.6,28.6,51.6,16.1,48.8,16.1z"/>
+	
+		<linearGradient id="path838_00000178202420740783986970000015300949239584269204_" gradientUnits="userSpaceOnUse" x1="-253.9041" y1="463.028" x2="-253.7869" y2="463.028" gradientTransform="matrix(-214.9114 -9.7097 -16.3656 362.2288 -46924.418 -170148.5625)">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.4"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+	</linearGradient>
+	
+		<path id="path838" sodipodi:nodetypes="ccccccc" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#path838_00000178202420740783986970000015300949239584269204_);" d="
+		M46.8,59.3C48.7,60,65.1,48.2,64.8,38c-0.3-10.2-14.2-21.5-15.4-21.1c-2.1,0.7-0.1,9,0.6,11.2c-0.4,1,0.3,8.3-10.4,8.1
+		c11.8,4.4,8.5,11.2,9.6,12.1C47.6,52.9,46.4,58.3,46.8,59.3z"/>
+</g>
+<rdf:RDF  xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<Work  rdf:about="">
+		<dc:title>Clipart by Nicu Buculei - arrow08_4</dc:title>
+		<dc:rights>
+			<Agent>
+				<dc:title>Nicu Buculei</dc:title>
+			</Agent>
+		</dc:rights>
+		<dc:type  rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+		<license  rdf:resource="http://web.resource.org/cc/PublicDomain"></license>
+	</Work>
+	<License  rdf:about="http://web.resource.org/cc/PublicDomain">
+		<permits  rdf:resource="http://web.resource.org/cc/Reproduction"></permits>
+		<permits  rdf:resource="http://web.resource.org/cc/Distribution"></permits>
+		<permits  rdf:resource="http://web.resource.org/cc/DerivativeWorks"></permits>
+	</License>
+</rdf:RDF>
+</svg>
