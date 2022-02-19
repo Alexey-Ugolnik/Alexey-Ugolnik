@@ -11,6 +11,7 @@
 .ul1 {
       list-style: upper-roman;
       font-weight: bold;
+      width: 350px;
      }
 .ul2 {
       list-style: lower-roman;
