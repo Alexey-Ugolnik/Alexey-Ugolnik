@@ -19,5 +19,8 @@
       width: 100px;
       height: 70px;
       float: right;
-      clear: right;
+      clear: both;
+}
+.sheet4 {
+      background-color: #484848; 
 }
