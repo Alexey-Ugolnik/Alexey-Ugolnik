@@ -1,0 +1,39 @@
+﻿ul {
+   list-style: none; 
+   margin: 0px; 
+   padding-left: 0px; 
+   margin-top:25px; 
+   height: 50px; 
+   }
+a {
+  text-decoration: none; 
+  background:#2F4F4F; 
+  color:#FFFFFF; 
+  padding:0px 15px; 
+  font-family: 'Roboto', sans-serif; 
+  line-height: 50px; 
+  display: block; 
+  border-right: 1px solid #FFFFFF;
+  border-radius: 7px; 
+  }
+a:hover {
+        background:#D43737;
+        }
+li {
+   float:left; 
+   position:relative; 
+   width:150px;
+   }
+li > ul {
+        position:absolute;
+        top:25px;
+        display:none;   
+        }
+li:hover > ul {
+              display:block; 
+              width:150px;       
+              }
+li:hover > ul > li {
+                   float:none
+                   border-top: 1px solid #FFFFFF;
+                   }
