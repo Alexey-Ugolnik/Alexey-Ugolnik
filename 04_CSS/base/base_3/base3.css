@@ -1,0 +1,26 @@
+﻿body {
+      background-color: #3366CC; 
+     }
+table {
+       border: 5px solid rgb(0, 0, 0);
+       margin-left: auto;
+       margin-right: auto;
+       border-collapse: collapse;
+      }
+.page {
+       width: 210mm;
+       margin: 50px auto;
+       padding: 15mm 15mm 15mm 25mm;
+       box-shadow: 10px 10px 20px black;
+       background: #FFFFFF;
+      }
+td {
+    width: 100px;
+    height: 100px;
+   }
+.chess tr:nth-child(odd) td:nth-child(odd) {
+                                            background: rgb(0, 0, 0);
+                                           }	
+.chess tr:nth-child(even) td:nth-child(even) {
+                                              background: rgb(0, 0, 0);
+                                             }
