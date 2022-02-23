@@ -22,7 +22,7 @@ ul {
 .imgtip {
          opacity: 0;
         }
-a.brs:hover+span {
-                  opacity: 1;
-                 }
+a:hover+span {
+              opacity: 1;
+             }
 
