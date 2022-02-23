@@ -1,0 +1,28 @@
+﻿body {
+      background-color: #3366CC; 
+     }
+ul {
+    list-style-image: url(img/sheet.jpg);
+   }
+.page {
+       width: 210mm;
+       margin: 50px auto;
+       padding: 15mm 15mm 15mm 25mm;
+       box-shadow: 10px 10px 20px black;
+       background: #FFFFFF;
+      }
+.paragraph {
+            border: 1px solid #000000;
+            text-indent: 20px;
+            border-bottom-left-radius: 20px;
+            border-top-right-radius: 20px;
+            padding: 10px;
+            margin: 10px;
+           }
+.imgtip {
+         opacity: 0;
+        }
+a.brs:hover+span {
+                  opacity: 1;
+                 }
+
